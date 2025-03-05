@@ -1,3 +1,9 @@
+## OverView 
+  this simple chat website focuses on the operation of the of the card operation and auth service with help of supabase dashboard provide all the backend service 
+
+  
+
+
 <!-- ## Database Table Schema -->
 ## users table
 
